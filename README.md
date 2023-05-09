@@ -4,6 +4,7 @@
 
 - Understand the steps needed to complete an assignment
 - Submit assignments in Canvas through CodeGrade
+- Make a change to the README
 
 ## Introduction
 
